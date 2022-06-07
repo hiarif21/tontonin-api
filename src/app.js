@@ -5,6 +5,7 @@ import bodyParser from 'body-parser';
 
 import rolesRoutes from './routes/roles.routes.js';
 import genresRoutes from './routes/genres.routes.js';
+import streamingServicesRoutes from './routes/streamingServices.routes.js';
 
 const app = express();
 
@@ -21,6 +22,7 @@ app.get('/', (req, res) => {
 // API
 app.use(`/api/roles`, rolesRoutes);
 app.use(`/api/genres`, genresRoutes);
+app.use(`/api/streaming-services`, streamingServicesRoutes);
 
 // ERROR HANDLER
 app.use((req, res, next) => {

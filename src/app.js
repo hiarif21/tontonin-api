@@ -4,6 +4,7 @@ import cors from 'cors';
 import bodyParser from 'body-parser';
 
 import rolesRoutes from './routes/roles.routes.js';
+import genresRoutes from './routes/genres.routes.js';
 
 const app = express();
 
@@ -19,6 +20,7 @@ app.get('/', (req, res) => {
 
 // API
 app.use(`/api/roles`, rolesRoutes);
+app.use(`/api/genres`, genresRoutes);
 
 // ERROR HANDLER
 app.use((req, res, next) => {

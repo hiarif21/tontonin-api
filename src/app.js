@@ -3,6 +3,8 @@ import morgan from 'morgan';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 
+import rolesRoutes from './routes/roles.routes.js';
+
 const app = express();
 
 // MIDDLEWARE
@@ -14,6 +16,9 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.get('/', (req, res) => {
   res.send('Tontonin API');
 });
+
+// API
+app.use(`/api/roles`, rolesRoutes);
 
 // ERROR HANDLER
 app.use((req, res, next) => {

@@ -9,7 +9,6 @@ const watchOptionSchema = mongoose.Schema({
   title: {
     type: String,
     required: true,
-    unique: true,
   },
   link_streaming: {
     type: String,

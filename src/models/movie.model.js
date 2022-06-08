@@ -22,6 +22,10 @@ const movieSchema = mongoose.Schema({
     type: String,
     required: true,
   },
+  link_trailer: {
+    type: String,
+    required: true,
+  },
   views: {
     type: Number,
     required: true,

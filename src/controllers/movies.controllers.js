@@ -8,6 +8,7 @@ export const create = async (req, res, next) => {
       release_year,
       runtime,
       storyline,
+      link_trailer,
       watch_options,
       persons,
       genres,
@@ -19,6 +20,7 @@ export const create = async (req, res, next) => {
       release_year,
       runtime,
       storyline,
+      link_trailer,
       watch_options,
       persons,
       genres,
@@ -42,7 +44,7 @@ export const getSingle = async (req, res, next) => {
     const result = await model
       .findById(
         id,
-        'title image release_year runtime storyline watch_options persons genres'
+        'title image release_year runtime storyline link_trailer watch_options persons genres'
       )
       .populate('watch_options', 'title link_streaming')
       .populate('persons genres', 'name');
@@ -98,7 +100,7 @@ export const getMultiple = async (req, res, next) => {
     const result = await model
       .find(
         filter,
-        'title image release_year runtime storyline watch_options persons genres'
+        'title image release_year runtime storyline link_trailer watch_options persons genres'
       )
       .populate('watch_options', 'title link_streaming')
       .populate('persons genres', 'name')
@@ -137,6 +139,7 @@ export const update = async (req, res, next) => {
       release_year,
       runtime,
       storyline,
+      link_trailer,
       watch_options,
       persons,
       genres,
@@ -150,6 +153,7 @@ export const update = async (req, res, next) => {
         release_year,
         runtime,
         storyline,
+        link_trailer,
         watch_options,
         persons,
         genres,

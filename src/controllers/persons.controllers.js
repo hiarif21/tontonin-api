@@ -63,7 +63,7 @@ export const getMultiple = async (req, res, next) => {
       .skip(limit * (page - 1))
       .limit(limit);
 
-    const total_data = await model.find(filter, 'name role').count();
+    const total_data = await model.find(filter).count();
     const total_page = Math.ceil(total_data / limit);
 
     if (result) {

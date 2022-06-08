@@ -65,15 +65,18 @@ export const update = async (req, res, next) => {
     const { id } = req.params;
     const { name } = req.body;
 
-    const result = await model.findByIdAndUpdate({ _id: id }, { name });
+    const result = await model.findByIdAndUpdate(
+      { _id: id },
+      { name },
+      { runValidators: true }
+    );
 
     if (result) {
       res.status(201).json({
         message: 'successfully updated role',
-        data: result,
       });
     } else {
-      res.status(404).json({ message: 'role not found', data: {} });
+      res.status(404).json({ message: 'role not found' });
     }
   } catch (error) {
     console.error(`error while updating role:`, error.message);
@@ -90,10 +93,9 @@ export const remove = async (req, res, next) => {
     if (result) {
       res.status(200).json({
         message: 'successfully deleted role',
-        data: result,
       });
     } else {
-      res.status(404).json({ message: 'role not found', data: {} });
+      res.status(404).json({ message: 'role not found' });
     }
   } catch (error) {
     console.error(`error while deleting role:`, error.message);

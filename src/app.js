@@ -7,6 +7,7 @@ import rolesRoutes from './routes/roles.routes.js';
 import genresRoutes from './routes/genres.routes.js';
 import streamingServicesRoutes from './routes/streamingServices.routes.js';
 import personsRoutes from './routes/persons.routes.js';
+import watchOptionsRoutes from './routes/watchOptions.routes.js';
 
 const app = express();
 
@@ -25,6 +26,7 @@ app.use(`/api/roles`, rolesRoutes);
 app.use(`/api/genres`, genresRoutes);
 app.use(`/api/streaming-services`, streamingServicesRoutes);
 app.use(`/api/persons`, personsRoutes);
+app.use(`/api/watch-options`, watchOptionsRoutes);
 
 // ERROR HANDLER
 app.use((req, res, next) => {

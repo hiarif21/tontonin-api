@@ -10,8 +10,8 @@ const movieSchema = mongoose.Schema({
     type: String,
     required: true,
   },
-  release_date: {
-    type: String,
+  release_year: {
+    type: Number,
     required: true,
   },
   runtime: {

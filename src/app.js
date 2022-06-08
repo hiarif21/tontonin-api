@@ -9,6 +9,7 @@ import streamingServicesRoutes from './routes/streamingServices.routes.js';
 import personsRoutes from './routes/persons.routes.js';
 import watchOptionsRoutes from './routes/watchOptions.routes.js';
 import moviesRoutes from './routes/movies.routes.js';
+import discoversRoutes from './routes/discovers.routes.js';
 
 const app = express();
 
@@ -29,6 +30,7 @@ app.use(`/api/streaming-services`, streamingServicesRoutes);
 app.use(`/api/persons`, personsRoutes);
 app.use(`/api/watch-options`, watchOptionsRoutes);
 app.use(`/api/movies`, moviesRoutes);
+app.use(`/api/discovers`, discoversRoutes);
 
 // ERROR HANDLER
 app.use((req, res, next) => {

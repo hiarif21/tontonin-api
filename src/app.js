@@ -3,6 +3,7 @@ import morgan from 'morgan';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 
+import dashboardRoutes from './routes/dashboard.routes.js';
 import rolesRoutes from './routes/roles.routes.js';
 import genresRoutes from './routes/genres.routes.js';
 import streamingServicesRoutes from './routes/streamingServices.routes.js';
@@ -19,11 +20,8 @@ app.use(morgan('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get('/', (req, res) => {
-  res.send('Tontonin API');
-});
-
 // API
+app.use(`/api/`, dashboardRoutes);
 app.use(`/api/roles`, rolesRoutes);
 app.use(`/api/genres`, genresRoutes);
 app.use(`/api/streaming-services`, streamingServicesRoutes);

@@ -42,7 +42,7 @@ export const getSingle = async (req, res, next) => {
 
 export const getMultiple = async (req, res, next) => {
   try {
-    const result = await model.find();
+    const result = await model.find({}, 'name');
 
     if (result) {
       res.status(200).json({

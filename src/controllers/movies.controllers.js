@@ -1,4 +1,5 @@
 import model from '../models/movie.model.js';
+import discoverModel from '../models/discover.model.js';
 
 export const create = async (req, res, next) => {
   try {
@@ -28,9 +29,11 @@ export const create = async (req, res, next) => {
     });
     await result.save();
 
-    res
-      .status(201)
-      .json({ message: `successfully created movie`, data: result });
+    res.status(201).json({
+      success: true,
+      message: `successfully created movie`,
+      data: result,
+    });
   } catch (error) {
     console.error(`error while creating movie:`, error.message);
     next(error);
@@ -53,13 +56,14 @@ export const getSingle = async (req, res, next) => {
       await model.findByIdAndUpdate(id, { $inc: { views: 1 } });
 
       res.status(200).json({
+        success: true,
         message: `success getting movie`,
         data: result,
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `movie not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -112,6 +116,7 @@ export const getMultiple = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting movies`,
         page,
         total_page,
@@ -120,8 +125,8 @@ export const getMultiple = async (req, res, next) => {
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `movies not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -163,10 +168,11 @@ export const update = async (req, res, next) => {
 
     if (result) {
       res.status(201).json({
+        success: true,
         message: 'successfully updated movie',
       });
     } else {
-      res.status(404).json({ message: 'movie not found' });
+      res.status(404).json({ success: false, message: 'movie not found' });
     }
   } catch (error) {
     console.error(`error while updating movie:`, error.message);
@@ -178,17 +184,34 @@ export const remove = async (req, res, next) => {
   try {
     const { id } = req.params;
 
-    const result = await model.findByIdAndRemove(id);
+    const result = await model.findById(id).countDocuments();
 
     if (result) {
-      res.status(200).json({
-        message: 'successfully deleted movie',
-      });
+      const countDiscoverModel = await discoverModel
+        .find({
+          movies: id,
+        })
+        .countDocuments();
+
+      if (!countDiscoverModel) {
+        await model.findByIdAndRemove(id);
+
+        res.status(200).json({
+          success: true,
+          message: 'successfully deleted genre',
+        });
+      } else {
+        res.status(404).json({
+          success: false,
+          message:
+            'Cannot be deleted because this document is related to discovers',
+        });
+      }
     } else {
-      res.status(404).json({ message: 'movie not found' });
+      res.status(404).json({ success: false, message: 'genre not found' });
     }
   } catch (error) {
-    console.error(`error while deleting movie:`, error.message);
+    console.error(`error while deleting genre:`, error.message);
     next(error);
   }
 };

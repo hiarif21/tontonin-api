@@ -1,4 +1,5 @@
 import model from '../models/role.model.js';
+import personModel from '../models/person.model.js';
 
 export const create = async (req, res, next) => {
   try {
@@ -7,9 +8,11 @@ export const create = async (req, res, next) => {
     const result = await model({ name });
     await result.save();
 
-    res
-      .status(201)
-      .json({ message: `successfully created role`, data: result });
+    res.status(201).json({
+      success: true,
+      message: `successfully created role`,
+      data: result,
+    });
   } catch (error) {
     console.error(`error while creating role:`, error.message);
     next(error);
@@ -24,13 +27,14 @@ export const getSingle = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting role`,
         data: result,
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `role not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -45,13 +49,14 @@ export const getMultiple = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting roles`,
         data: result,
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `roles not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -73,10 +78,11 @@ export const update = async (req, res, next) => {
 
     if (result) {
       res.status(201).json({
+        success: true,
         message: 'successfully updated role',
       });
     } else {
-      res.status(404).json({ message: 'role not found' });
+      res.status(404).json({ success: false, message: 'role not found' });
     }
   } catch (error) {
     console.error(`error while updating role:`, error.message);
@@ -88,14 +94,31 @@ export const remove = async (req, res, next) => {
   try {
     const { id } = req.params;
 
-    const result = await model.findByIdAndRemove(id);
+    const result = await model.findById(id).countDocuments();
 
     if (result) {
-      res.status(200).json({
-        message: 'successfully deleted role',
-      });
+      const countPersonModel = await personModel
+        .find({
+          role: id,
+        })
+        .countDocuments();
+
+      if (!countPersonModel) {
+        await model.findByIdAndRemove(id);
+
+        res.status(200).json({
+          success: true,
+          message: 'successfully deleted role',
+        });
+      } else {
+        res.status(404).json({
+          success: false,
+          message:
+            'Cannot be deleted because this document is related to person',
+        });
+      }
     } else {
-      res.status(404).json({ message: 'role not found' });
+      res.status(404).json({ success: false, message: 'role not found' });
     }
   } catch (error) {
     console.error(`error while deleting role:`, error.message);

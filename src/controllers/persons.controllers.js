@@ -1,4 +1,5 @@
 import model from '../models/person.model.js';
+import movieModel from '../models/movie.model.js';
 
 export const create = async (req, res, next) => {
   try {
@@ -7,9 +8,11 @@ export const create = async (req, res, next) => {
     const result = await model({ name, role });
     await result.save();
 
-    res
-      .status(201)
-      .json({ message: `successfully created person`, data: result });
+    res.status(201).json({
+      success: true,
+      message: `successfully created person`,
+      data: result,
+    });
   } catch (error) {
     console.error(`error while creating person:`, error.message);
     next(error);
@@ -24,13 +27,14 @@ export const getSingle = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting person`,
         data: result,
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `person not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -68,6 +72,7 @@ export const getMultiple = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting persons`,
         page,
         total_page,
@@ -76,8 +81,8 @@ export const getMultiple = async (req, res, next) => {
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `persons not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -99,10 +104,11 @@ export const update = async (req, res, next) => {
 
     if (result) {
       res.status(201).json({
+        success: true,
         message: 'successfully updated person',
       });
     } else {
-      res.status(404).json({ message: 'person not found' });
+      res.status(404).json({ success: false, message: 'person not found' });
     }
   } catch (error) {
     console.error(`error while updating person:`, error.message);
@@ -114,14 +120,31 @@ export const remove = async (req, res, next) => {
   try {
     const { id } = req.params;
 
-    const result = await model.findByIdAndRemove(id);
+    const result = await model.findById(id).countDocuments();
 
     if (result) {
-      res.status(200).json({
-        message: 'successfully deleted person',
-      });
+      const countMovieModel = await movieModel
+        .find({
+          persons: id,
+        })
+        .countDocuments();
+
+      if (!countMovieModel) {
+        await model.findByIdAndRemove(id);
+
+        res.status(200).json({
+          success: true,
+          message: 'successfully deleted person',
+        });
+      } else {
+        res.status(404).json({
+          success: false,
+          message:
+            'Cannot be deleted because this document is related to movies',
+        });
+      }
     } else {
-      res.status(404).json({ message: 'person not found' });
+      res.status(404).json({ success: false, message: 'person not found' });
     }
   } catch (error) {
     console.error(`error while deleting person:`, error.message);

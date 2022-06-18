@@ -11,6 +11,7 @@ export const get = async (req, res, next) => {
     const streaming_services = await modelStreaming.find().countDocuments();
 
     res.status(200).json({
+      success: true,
       message: `success getting genre`,
       data: {
         discovers,

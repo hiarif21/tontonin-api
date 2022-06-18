@@ -7,9 +7,11 @@ export const create = async (req, res, next) => {
     const result = await model({ streaming_service, title, link_streaming });
     await result.save();
 
-    res
-      .status(201)
-      .json({ message: `successfully created watch option`, data: result });
+    res.status(201).json({
+      success: true,
+      message: `successfully created watch option`,
+      data: result,
+    });
   } catch (error) {
     console.error(`error while creating watch option:`, error.message);
     next(error);
@@ -26,13 +28,14 @@ export const getSingle = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting watch option`,
         data: result,
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `watch option not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -70,6 +73,7 @@ export const getMultiple = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting watch options`,
         page,
         total_page,
@@ -78,8 +82,8 @@ export const getMultiple = async (req, res, next) => {
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `watch options not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -101,10 +105,13 @@ export const update = async (req, res, next) => {
 
     if (result) {
       res.status(201).json({
+        success: true,
         message: 'successfully updated watch option',
       });
     } else {
-      res.status(404).json({ message: 'watch option not found' });
+      res
+        .status(404)
+        .json({ success: false, message: 'watch option not found' });
     }
   } catch (error) {
     console.error(`error while updating watch option:`, error.message);
@@ -116,17 +123,36 @@ export const remove = async (req, res, next) => {
   try {
     const { id } = req.params;
 
-    const result = await model.findByIdAndRemove(id);
+    const result = await model.findById(id).countDocuments();
 
     if (result) {
-      res.status(200).json({
-        message: 'successfully deleted watch option',
-      });
+      const countMovieModel = await movieModel
+        .find({
+          watch_options: id,
+        })
+        .countDocuments();
+
+      if (!countMovieModel) {
+        await model.findByIdAndRemove(id);
+
+        res.status(200).json({
+          success: true,
+          message: 'successfully deleted watch options',
+        });
+      } else {
+        res.status(404).json({
+          success: false,
+          message:
+            'Cannot be deleted because this document is related to movies',
+        });
+      }
     } else {
-      res.status(404).json({ message: 'watch option not found' });
+      res
+        .status(404)
+        .json({ success: false, message: 'watch options not found' });
     }
   } catch (error) {
-    console.error(`error while deleting watch option:`, error.message);
+    console.error(`error while deleting watch options:`, error.message);
     next(error);
   }
 };

@@ -1,4 +1,5 @@
 import model from '../models/genre.model.js';
+import movieModel from '../models/movie.model.js';
 
 export const create = async (req, res, next) => {
   try {
@@ -7,9 +8,11 @@ export const create = async (req, res, next) => {
     const result = await model({ name });
     await result.save();
 
-    res
-      .status(201)
-      .json({ message: `successfully created genre`, data: result });
+    res.status(201).json({
+      success: true,
+      message: `successfully created genre`,
+      data: result,
+    });
   } catch (error) {
     console.error(`error while creating genre:`, error.message);
     next(error);
@@ -24,13 +27,14 @@ export const getSingle = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting genre`,
         data: result,
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `genre not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -45,13 +49,14 @@ export const getMultiple = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting genres`,
         data: result,
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `genres not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -73,10 +78,11 @@ export const update = async (req, res, next) => {
 
     if (result) {
       res.status(201).json({
+        success: true,
         message: 'successfully updated genre',
       });
     } else {
-      res.status(404).json({ message: 'genre not found' });
+      res.status(404).json({ success: false, message: 'genre not found' });
     }
   } catch (error) {
     console.error(`error while updating genre:`, error.message);
@@ -88,14 +94,31 @@ export const remove = async (req, res, next) => {
   try {
     const { id } = req.params;
 
-    const result = await model.findByIdAndRemove(id);
+    const result = await model.findById(id).countDocuments();
 
     if (result) {
-      res.status(200).json({
-        message: 'successfully deleted genre',
-      });
+      const countMovieModel = await movieModel
+        .find({
+          genres: id,
+        })
+        .countDocuments();
+
+      if (!countMovieModel) {
+        await model.findByIdAndRemove(id);
+
+        res.status(200).json({
+          success: true,
+          message: 'successfully deleted genre',
+        });
+      } else {
+        res.status(404).json({
+          success: false,
+          message:
+            'Cannot be deleted because this document is related to movies',
+        });
+      }
     } else {
-      res.status(404).json({ message: 'genre not found' });
+      res.status(404).json({ success: false, message: 'genre not found' });
     }
   } catch (error) {
     console.error(`error while deleting genre:`, error.message);

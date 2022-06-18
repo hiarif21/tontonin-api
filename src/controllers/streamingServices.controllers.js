@@ -1,4 +1,5 @@
 import model from '../models/streamingService.model.js';
+import watchOptionModel from '../models/watchOption.model.js';
 
 export const create = async (req, res, next) => {
   try {
@@ -8,6 +9,7 @@ export const create = async (req, res, next) => {
     await result.save();
 
     res.status(201).json({
+      success: true,
       message: `successfully created streaming service`,
       data: result,
     });
@@ -25,13 +27,14 @@ export const getSingle = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting streaming service`,
         data: result,
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `streaming service not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -42,17 +45,20 @@ export const getSingle = async (req, res, next) => {
 
 export const getMultiple = async (req, res, next) => {
   try {
+    const name = req.query.name;
+
     const result = await model.find({}, 'name');
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting streaming services`,
         data: result,
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `streaming services not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -74,10 +80,13 @@ export const update = async (req, res, next) => {
 
     if (result) {
       res.status(201).json({
+        success: true,
         message: 'successfully updated streaming service',
       });
     } else {
-      res.status(404).json({ message: 'streaming service not found' });
+      res
+        .status(404)
+        .json({ success: false, message: 'streaming service not found' });
     }
   } catch (error) {
     console.error(`error while updating streaming service:`, error.message);
@@ -89,14 +98,33 @@ export const remove = async (req, res, next) => {
   try {
     const { id } = req.params;
 
-    const result = await model.findByIdAndRemove(id);
+    const result = await model.findById(id).countDocuments();
 
     if (result) {
-      res.status(200).json({
-        message: 'successfully deleted streaming service',
-      });
+      const countWatchOptions = await watchOptionModel
+        .find({
+          streaming_service: id,
+        })
+        .countDocuments();
+
+      if (!countWatchOptions) {
+        await model.findByIdAndRemove(id);
+
+        res.status(200).json({
+          success: true,
+          message: 'successfully deleted streaming service',
+        });
+      } else {
+        res.status(404).json({
+          success: false,
+          message:
+            'Cannot be deleted because this document is related to watch options',
+        });
+      }
     } else {
-      res.status(404).json({ message: 'streaming service not found' });
+      res
+        .status(404)
+        .json({ success: false, message: 'streaming service not found' });
     }
   } catch (error) {
     console.error(`error while deleting streaming service:`, error.message);

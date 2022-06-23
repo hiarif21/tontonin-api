@@ -1,4 +1,5 @@
 import model from '../models/watchOption.model.js';
+import movieModel from '../models/movie.model.js';
 
 export const create = async (req, res, next) => {
   try {

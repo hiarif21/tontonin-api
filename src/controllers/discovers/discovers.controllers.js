@@ -39,10 +39,10 @@ export const getSingle = async (req, res, next) => {
       res.status(200).json({
         success: true,
         message: `success getting discover`,
+        page,
+        total_page,
+        total_movies,
         data: {
-          page,
-          total_page,
-          total_movies,
           ...result._doc,
         },
       });
@@ -62,18 +62,25 @@ export const getMultiple = async (req, res, next) => {
   try {
     const page = (req.query.page > 0 && req.query.page) || 1;
     const limit = (req.query.limit > 0 && req.query.limit) || 10;
-
     const limit_movies =
       (req.query.limit_movies > 0 && req.query.limit_movies) || 10;
 
+    const title = req.query.title; // string
+
+    const filter = {};
+
+    if (title) {
+      filter.title = new RegExp(title, 'i');
+    }
+
     const result = await model
-      .find({}, 'title movies')
+      .find(filter, 'title movies')
       .populate('movies', 'title image')
       .slice('movies', [0, Number(limit_movies)])
       .skip(limit * (page - 1))
       .limit(limit);
 
-    const total_data = await model.find().count();
+    const total_data = await model.find(filter).count();
     const total_page = Math.ceil(total_data / limit);
 
     if (result) {

@@ -7,9 +7,11 @@ export const create = async (req, res, next) => {
     const result = await model({ title, movies });
     await result.save();
 
-    res
-      .status(201)
-      .json({ message: `successfully created discover`, data: result });
+    res.status(201).json({
+      success: true,
+      message: `successfully created discover`,
+      data: result,
+    });
   } catch (error) {
     console.error(`error while creating discover:`, error.message);
     next(error);
@@ -35,6 +37,7 @@ export const getSingle = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting discover`,
         data: {
           page,
@@ -45,8 +48,8 @@ export const getSingle = async (req, res, next) => {
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `discover not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -75,6 +78,7 @@ export const getMultiple = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: `success getting discovers`,
         page,
         total_page,
@@ -83,8 +87,8 @@ export const getMultiple = async (req, res, next) => {
       });
     } else {
       res.status(404).json({
+        success: false,
         message: `discovers not found`,
-        data: {},
       });
     }
   } catch (error) {
@@ -106,10 +110,11 @@ export const update = async (req, res, next) => {
 
     if (result) {
       res.status(201).json({
+        success: true,
         message: 'successfully updated discover',
       });
     } else {
-      res.status(404).json({ message: 'discover not found' });
+      res.status(404).json({ success: false, message: 'discover not found' });
     }
   } catch (error) {
     console.error(`error while updating discover:`, error.message);
@@ -125,10 +130,11 @@ export const remove = async (req, res, next) => {
 
     if (result) {
       res.status(200).json({
+        success: true,
         message: 'successfully deleted discover',
       });
     } else {
-      res.status(404).json({ message: 'discover not found' });
+      res.status(404).json({ success: false, message: 'discover not found' });
     }
   } catch (error) {
     console.error(`error while deleting discover:`, error.message);

@@ -23,7 +23,7 @@ export const getSingle = async (req, res, next) => {
   try {
     const { id } = req.params;
 
-    const result = await model.findById(id);
+    const result = await model.findById(id, 'name');
 
     if (result) {
       res.status(200).json({

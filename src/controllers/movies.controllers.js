@@ -49,8 +49,23 @@ export const getSingle = async (req, res, next) => {
         id,
         'title image release_year runtime storyline link_trailer watch_options persons genres'
       )
-      .populate('watch_options', 'title link_streaming')
-      .populate('persons genres', 'name');
+      .populate({
+        path: 'watch_options',
+        select: 'streaming_service title link_streaming',
+        populate: {
+          path: 'streaming_service',
+          select: 'name',
+        },
+      })
+      .populate({
+        path: 'persons',
+        select: 'role name',
+        populate: {
+          path: 'role',
+          select: 'name',
+        },
+      })
+      .populate('genres', 'name');
 
     if (result) {
       await model.findByIdAndUpdate(id, { $inc: { views: 1 } });

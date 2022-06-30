@@ -15,7 +15,7 @@ const movieSchema = mongoose.Schema({
     required: true,
   },
   runtime: {
-    type: Number,
+    type: String,
     required: true,
   },
   storyline: {

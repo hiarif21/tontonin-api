@@ -1,0 +1,5334 @@
+[{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db325"
+  },
+  "title": "#Alive",
+  "release_year": 2020,
+  "runtime": "98",
+  "link_trailer": "https://www.youtube.com/embed/jQ8CCg1tOqc",
+  "image": "https://i.postimg.cc/d12KQYfJ/Alive.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 2,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60499"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2cb"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db326"
+  },
+  "title": "12 Strong",
+  "release_year": 2018,
+  "runtime": "129",
+  "link_trailer": "https://www.youtube.com/embed/-Denciie5oA",
+  "image": "https://i.postimg.cc/Xq1dpTZz/12-Strong.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db319"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db327"
+  },
+  "title": "A Whisker Away",
+  "release_year": 2020,
+  "runtime": "105",
+  "link_trailer": "https://www.youtube.com/embed/aXc9DVfLTGo",
+  "image": "https://i.postimg.cc/X7Zys1Bn/A-Whisker-Away.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60497"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db30c"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db328"
+  },
+  "title": "Afterlife of the Party",
+  "release_year": 2021,
+  "runtime": "109",
+  "link_trailer": "https://www.youtube.com/embed/kFIbSnJ9tQM",
+  "image": "https://i.postimg.cc/BZPKgwK4/Afterlife-of-the-Party.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60497"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2f0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db329"
+  },
+  "title": "All the Freckles in the World",
+  "release_year": 2020,
+  "runtime": "89",
+  "link_trailer": "https://www.youtube.com/embed/pFIFMGG039k",
+  "image": "https://i.postimg.cc/Z5dp5sJw/All-the-Freckles-in-the-World.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049f"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db314"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db32a"
+  },
+  "title": "Antoine Griezmann: The Making of a Legend",
+  "release_year": 2019,
+  "runtime": "60",
+  "link_trailer": "https://www.youtube.com/embed/by2gw8LshqQ",
+  "image": "https://i.postimg.cc/7hSbyd3z/Antoine-Griezmann-The-Making-of-a-Legend.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049f"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2e5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db32b"
+  },
+  "title": "At Stake",
+  "release_year": 2017,
+  "runtime": "106",
+  "link_trailer": "https://www.youtube.com/embed/1QVU66XwgiM",
+  "image": "https://i.postimg.cc/43KfgjZ3/At-Stake.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2d7"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db32c"
+  },
+  "title": "Bad Boys",
+  "release_year": 1995,
+  "runtime": "119",
+  "link_trailer": "https://www.youtube.com/embed/Xm12NSa8jsM",
+  "image": "https://i.postimg.cc/tRFg706Z/Bad-Boys.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2dc"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db32d"
+  },
+  "title": "Bad Genius",
+  "release_year": 2017,
+  "runtime": "129",
+  "link_trailer": "https://www.youtube.com/embed/CLdhN4oMxCQ",
+  "image": "https://i.postimg.cc/QxXjtFsw/Bad-Genius.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2d1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db32e"
+  },
+  "title": "Begin Again",
+  "release_year": 2013,
+  "runtime": "103",
+  "link_trailer": "https://www.youtube.com/embed/uTRCxOE7Xzc",
+  "image": "https://i.postimg.cc/CxG523hp/Begin-Again.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049b"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db301"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db32f"
+  },
+  "title": "BLACKPINK: Light Up the Sky",
+  "release_year": 2020,
+  "runtime": "79",
+  "link_trailer": "https://www.youtube.com/embed/7jx_vdvxWu0",
+  "image": "https://i.postimg.cc/0jzrHrQV/BLACKPINK-Light-Up-the-Sky.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049b"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db306"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db330"
+  },
+  "title": "Blasted",
+  "release_year": 2022,
+  "runtime": "115",
+  "link_trailer": "https://www.youtube.com/embed/R5546NL6gkE",
+  "image": "https://i.postimg.cc/PrrkH0Qk/Blasted.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049e"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2c7"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db331"
+  },
+  "title": "Corpse Bride",
+  "release_year": 2005,
+  "runtime": "77",
+  "link_trailer": "https://www.youtube.com/embed/AGACeWVdFqo",
+  "image": "https://i.postimg.cc/WbJhGDx3/Corpse-Bride.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049b"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db303"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db332"
+  },
+  "title": "Cult of Chucky",
+  "release_year": 2017,
+  "runtime": "90",
+  "link_trailer": "https://www.youtube.com/embed/p3a_-qpInyw",
+  "image": "https://i.postimg.cc/cJTHxftD/Cult-of-Chucky.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60499"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2ff"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db333"
+  },
+  "title": "Dear Nathan Thank You Salma",
+  "release_year": 2022,
+  "runtime": "111",
+  "link_trailer": "https://www.youtube.com/embed/8wTYyVhLZmE",
+  "image": "https://i.postimg.cc/XJVCxVdP/Dear-Nathan-Thank-You-Salma.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db312"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db334"
+  },
+  "title": "Downfall: The Case Against Boeing",
+  "release_year": 2022,
+  "runtime": "90",
+  "link_trailer": "https://www.youtube.com/embed/vt-IJkUbAxY",
+  "image": "https://i.postimg.cc/JnkzbvdF/Downfall-The-Case-Against-Boeing.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2df"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db335"
+  },
+  "title": "Dynasty Warriors",
+  "release_year": 2021,
+  "runtime": "120",
+  "link_trailer": "https://www.youtube.com/embed/K8pyNXNtZBM",
+  "image": "https://i.postimg.cc/B6X1Rm75/Dynasty-Warriors.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60497"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2f3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db336"
+  },
+  "title": "Escape Plan",
+  "release_year": 2013,
+  "runtime": "115",
+  "link_trailer": "https://www.youtube.com/embed/CI4EjV_x_PQ",
+  "image": "https://i.postimg.cc/7h1PR74M/Escape-Plan.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2dd"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db337"
+  },
+  "title": "Extreme Job",
+  "release_year": 2019,
+  "runtime": "111",
+  "link_trailer": "https://www.youtube.com/embed/l9Hu3Xocc-g&t=2s",
+  "image": "https://i.postimg.cc/RCdjgX5p/Extreme-Job.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2be"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db338"
+  },
+  "title": "Friend Zone",
+  "release_year": 2019,
+  "runtime": "118",
+  "link_trailer": "https://www.youtube.com/embed/LHzwwYcrKks",
+  "image": "https://i.postimg.cc/tJJVQ2rt/Friend-Zone.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db311"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db339"
+  },
+  "title": "Glamour Girls",
+  "release_year": 2022,
+  "runtime": "120",
+  "link_trailer": "https://www.youtube.com/embed/XnyuqAJ9_kI",
+  "image": "https://i.postimg.cc/L5vKfVR7/Glamour-Girls.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2c8"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db33a"
+  },
+  "title": "Greatest Events of WWII in Colour",
+  "release_year": 2019,
+  "runtime": "50",
+  "link_trailer": "https://www.youtube.com/embed/M8X6e-rinN0",
+  "image": "https://i.postimg.cc/5NG81WWH/Greatest-Events-of-WWII-in-Colour.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db316"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db33b"
+  },
+  "title": "Her",
+  "release_year": 2013,
+  "runtime": "125",
+  "link_trailer": "https://www.youtube.com/embed/dJTU48_yghs",
+  "image": "https://i.postimg.cc/wBYJy5vg/her.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049e"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db313"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db33c"
+  },
+  "title": "Hotel Mumbai",
+  "release_year": 2019,
+  "runtime": "122",
+  "link_trailer": "https://www.youtube.com/embed/ucYIwvZYGp8",
+  "image": "https://i.postimg.cc/DzQGqWJs/Hotel-Mumbai.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db315"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db33d"
+  },
+  "title": "Hustle",
+  "release_year": 2022,
+  "runtime": "118",
+  "link_trailer": "https://www.youtube.com/embed/nM4iy0reaCA",
+  "image": "https://i.postimg.cc/x1YFvmqy/Hustle.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049f"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf18b7a8c8104d64761441"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db33e"
+  },
+  "title": "It Chapter Two",
+  "release_year": 2019,
+  "runtime": "169",
+  "link_trailer": "https://www.youtube.com/embed/xhJ5P7Up3jA",
+  "image": "https://i.postimg.cc/MTTGvXyz/It-Chapter-Two.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60499"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2fe"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db33f"
+  },
+  "title": "Jo Pil-ho: The Dawning Rage",
+  "release_year": 2018,
+  "runtime": "127",
+  "link_trailer": "https://www.youtube.com/embed/gh1mIBqsOoA",
+  "image": "https://i.postimg.cc/QMVtMHgh/Joanna-Lumley-s-Trans-Siberian-Adventure.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2da"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db340"
+  },
+  "title": "Joanna Lumley's Trans-Siberian Adventure",
+  "release_year": 2015,
+  "runtime": "46",
+  "link_trailer": "https://www.youtube.com/embed/_bHLsjmIo0c",
+  "image": "https://i.postimg.cc/FsZsgjDh/Jo-Pil-ho-The-Dawning-Rage.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2e1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db341"
+  },
+  "title": "Jumanji: The Next Level",
+  "release_year": 2019,
+  "runtime": "123",
+  "link_trailer": "https://www.youtube.com/embed/rBxcF-r9Ibs",
+  "image": "https://i.postimg.cc/dVYrDmDv/Jumanji-The-Next-Level.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60497"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2f7"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db342"
+  },
+  "title": "Jumanji: Welcome to the Jungle",
+  "release_year": 2017,
+  "runtime": "119",
+  "link_trailer": "https://www.youtube.com/embed/2QKg5SZ_35I&t=1s",
+  "image": "https://i.postimg.cc/5NtDTLf4/Jumanji-Welcome-to-the-Jungle.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2bd"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db343"
+  },
+  "title": "Kingdom: Ashin of the North",
+  "release_year": 2021,
+  "runtime": "93",
+  "link_trailer": "https://www.youtube.com/embed/0MTbuQEt_IQ",
+  "image": "https://i.postimg.cc/bNb1zFy3/Kingdom-Ashin-of-the-North.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60499"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2f8"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db344"
+  },
+  "title": "Love & Gelato",
+  "release_year": 2022,
+  "runtime": "112",
+  "link_trailer": "https://www.youtube.com/embed/XIkQFUlBXF0",
+  "image": "https://i.postimg.cc/TYZ5Fjng/Love-and-Leashes.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db30f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db345"
+  },
+  "title": "Love and Leashes",
+  "release_year": 2022,
+  "runtime": "118",
+  "link_trailer": "https://www.youtube.com/embed/p1XLFGKL7gI",
+  "image": "https://i.postimg.cc/Y0PLpYZc/Love-Gelato.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db30d"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db346"
+  },
+  "title": "Man Vs Bee",
+  "release_year": 2022,
+  "runtime": "10–20",
+  "link_trailer": "https://www.youtube.com/embed/YQ1vN_91KO0",
+  "image": "https://i.postimg.cc/wBDrLkQV/Man-Vs-Bee.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2b9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db347"
+  },
+  "title": "Mariposa",
+  "release_year": 2020,
+  "runtime": "115",
+  "link_trailer": "https://www.youtube.com/embed/N9PUbRIKYOA",
+  "image": "https://i.postimg.cc/MTdjFhYp/Mariposa.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db310"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db348"
+  },
+  "title": "Mechanic: Resurrection",
+  "release_year": 2016,
+  "runtime": "98",
+  "link_trailer": "https://www.youtube.com/embed/G-P3f_wDXvs",
+  "image": "https://i.postimg.cc/mgPfzMnX/Mechanic-Resurrection.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2c5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db349"
+  },
+  "title": "Midway",
+  "release_year": 2019,
+  "runtime": "138",
+  "link_trailer": "https://www.youtube.com/embed/BfTYY_pac8o",
+  "image": "https://i.postimg.cc/pXyKgX4b/Midway.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db31a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db34a"
+  },
+  "title": "Money Heist: Korea",
+  "release_year": 2022,
+  "runtime": "63-78",
+  "link_trailer": "https://www.youtube.com/embed/Uafg97czxeQ",
+  "image": "https://i.postimg.cc/fLZrK0Hh/Money-Heist-Korea.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2b8"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db34b"
+  },
+  "title": "Munich – The Edge of War",
+  "release_year": 2021,
+  "runtime": "129",
+  "link_trailer": "https://www.youtube.com/embed/AQ7x8odi-OU",
+  "image": "https://i.postimg.cc/Njm2cyxV/Munich-The-Edge-of-War.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db30b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db34c"
+  },
+  "title": "Now You See Me 2",
+  "release_year": 2016,
+  "runtime": "129",
+  "link_trailer": "https://www.youtube.com/embed/4I8rVcSQbic",
+  "image": "https://i.postimg.cc/nhhVdCPB/Now-You-See-Me.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2de"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db34d"
+  },
+  "title": "Now You See Me",
+  "release_year": 2013,
+  "runtime": "115",
+  "link_trailer": "https://www.youtube.com/embed/4OtM9j2lcUA",
+  "image": "https://i.postimg.cc/fyQT5CGR/Now-You-See-Me-2.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2d9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db34e"
+  },
+  "title": "Over the Moon",
+  "release_year": 2020,
+  "runtime": "100",
+  "link_trailer": "https://www.youtube.com/embed/26DIABx44Tw",
+  "image": "https://i.postimg.cc/WzxtRjqT/Over-the-Moon.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049b"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db305"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db34f"
+  },
+  "title": "Perú: Tesoro escondido",
+  "release_year": 2017,
+  "runtime": "76",
+  "link_trailer": "https://www.youtube.com/embed/HodJ1g1XFcs",
+  "image": "https://i.postimg.cc/nh3rZvD3/Per-Tesoro-escondido.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2e2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db350"
+  },
+  "title": "Photocopier",
+  "release_year": 2022,
+  "runtime": "130",
+  "link_trailer": "https://www.youtube.com/embed/VbsTA-inEkc",
+  "image": "https://i.postimg.cc/wjnKhM86/Photocopier.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2c3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db351"
+  },
+  "title": "Pokémon Journeys: The Series",
+  "release_year": 2019,
+  "runtime": "22",
+  "link_trailer": "https://www.youtube.com/embed/iF4o64-LO0Q",
+  "image": "https://i.postimg.cc/Wbfxvz4M/Pok-mon-Journeys-The-Series.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 2,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2bb"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db352"
+  },
+  "title": "Rebelde",
+  "release_year": 2022,
+  "runtime": "32-48",
+  "link_trailer": "https://www.youtube.com/embed/BJYJksHREIc",
+  "image": "https://i.postimg.cc/qRMNy1dV/Rebelde.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049b"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db308"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db353"
+  },
+  "title": "Red Notice",
+  "release_year": 2021,
+  "runtime": "118",
+  "link_trailer": "https://www.youtube.com/embed/Pj0wz7zu3Ms",
+  "image": "https://i.postimg.cc/RFQj5T3F/Red-Notice.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2c0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db354"
+  },
+  "title": "Resident Evil: Apocalypse",
+  "release_year": 2004,
+  "runtime": "93",
+  "link_trailer": "https://www.youtube.com/embed/nzF3yoF7N_E",
+  "image": "https://i.postimg.cc/7P5gRZpv/Resident-Evil.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60499"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049e"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2f9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db355"
+  },
+  "title": "Resident Evil",
+  "release_year": 2002,
+  "runtime": "100",
+  "link_trailer": "https://www.youtube.com/embed/uIdjcDTc9Vk",
+  "image": "https://i.postimg.cc/KcCnhy21/Resident-Evil-Apocalypse.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60499"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049e"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2fa"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db356"
+  },
+  "title": "Return to Space",
+  "release_year": 2022,
+  "runtime": "128",
+  "link_trailer": "https://www.youtube.com/embed/sIME4sLR4-8",
+  "image": "https://i.postimg.cc/XYLGJRTc/Return-to-Space.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 2,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2ec"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db357"
+  },
+  "title": "Ronnie Coleman: The King",
+  "release_year": 2018,
+  "runtime": "93",
+  "link_trailer": "https://www.youtube.com/embed/HqV1nhrtEOw",
+  "image": "https://i.postimg.cc/3rGkp4sw/Ronnie-Coleman-The-King.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049f"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2e7"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db358"
+  },
+  "title": "Schumacher",
+  "release_year": 2021,
+  "runtime": "113",
+  "link_trailer": "https://www.youtube.com/embed/OQs9ZtdZjY0",
+  "image": "https://i.postimg.cc/JzMHRrdz/Schumacher.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049f"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2ed"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db359"
+  },
+  "title": "Sonic the Hedgehog",
+  "release_year": 2020,
+  "runtime": "101",
+  "link_trailer": "https://www.youtube.com/embed/szby7ZHLnkA&t=2s",
+  "image": "https://i.postimg.cc/fW7wDc4Y/Sonic-the-Hedgehog.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2d2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db35a"
+  },
+  "title": "Space Sweepers",
+  "release_year": 2021,
+  "runtime": "136",
+  "link_trailer": "https://www.youtube.com/embed/H1WYnJF1Pwo",
+  "image": "https://i.postimg.cc/7ZR4mX7r/Space-Sweepers.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049e"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2ce"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db35b"
+  },
+  "title": "STAND BY ME Doraemon 2",
+  "release_year": 2020,
+  "runtime": "97",
+  "link_trailer": "https://www.youtube.com/embed/A0wg3Zkxq1c&t=2s",
+  "image": "https://i.postimg.cc/5NnbFf20/STAND-BY-ME-Doraemon-2.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2d0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db35c"
+  },
+  "title": "Step Up 2: The Streets",
+  "release_year": 2008,
+  "runtime": "97",
+  "link_trailer": "https://www.youtube.com/embed/5CxCeZwZnfE",
+  "image": "https://i.postimg.cc/mgfh8LGS/Step-Up-2-The-Streets.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049b"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db302"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db35d"
+  },
+  "title": "The Accidental Detective 2: In Action",
+  "release_year": 2018,
+  "runtime": "116",
+  "link_trailer": "https://www.youtube.com/embed/6LeVz-WvNwM",
+  "image": "https://i.postimg.cc/Y9KHw9bX/The-Accidental-Detective-2-In-Action.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2cc"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db35e"
+  },
+  "title": "The Adam Project",
+  "release_year": 2022,
+  "runtime": "106",
+  "link_trailer": "https://www.youtube.com/embed/IE8HIsIrq4o",
+  "image": "https://i.postimg.cc/T1dBRWmc/The-Adam-Project.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049e"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2c1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db35f"
+  },
+  "title": "The Admiral: Roaring Currents",
+  "release_year": 2014,
+  "runtime": "109",
+  "link_trailer": "https://www.youtube.com/embed/7PBIHkKi0wM",
+  "image": "https://i.postimg.cc/XqY9NVv5/The-Admiral-Roaring-Currents.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db318"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db360"
+  },
+  "title": "The Angry Birds Movie",
+  "release_year": 2016,
+  "runtime": "98",
+  "link_trailer": "https://www.youtube.com/embed/QRmKa7vvct4",
+  "image": "https://i.postimg.cc/7hND9k1K/The-Angry-Birds-Movie.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2d3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db361"
+  },
+  "title": "The Armstrong Lie",
+  "release_year": 2013,
+  "runtime": "123",
+  "link_trailer": "https://www.youtube.com/embed/vx3KJn8r8y0",
+  "image": "https://i.postimg.cc/0QTrFPwx/The-Armstrong-Lie.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049f"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2e8"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db362"
+  },
+  "title": "The Babysitter: Killer Queen",
+  "release_year": 2020,
+  "runtime": "102",
+  "link_trailer": "https://www.youtube.com/embed/8WzUYkzRgBE",
+  "image": "https://i.postimg.cc/mhxZXwKr/The-Babysitter.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60499"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2fc"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db363"
+  },
+  "title": "The Babysitter",
+  "release_year": 2017,
+  "runtime": "85",
+  "link_trailer": "https://www.youtube.com/embed/CQTEUd-5JMQ",
+  "image": "https://i.postimg.cc/brSN9MCM/The-Babysitter-Killer-Queen.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60499"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2fb"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db364"
+  },
+  "title": "The Emoji Movie",
+  "release_year": 2017,
+  "runtime": "87",
+  "link_trailer": "https://www.youtube.com/embed/r8pJt4dK_s4",
+  "image": "https://i.postimg.cc/3wGs9hY2/The-Emoji-Movie.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2c4"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db365"
+  },
+  "title": "The Forgotten Battle",
+  "release_year": 2021,
+  "runtime": "127",
+  "link_trailer": "https://www.youtube.com/embed/bGiR5ZiEWkM",
+  "image": "https://i.postimg.cc/xd8553QH/The-Forgotten-Battle.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db31b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db366"
+  },
+  "title": "The Game Changers",
+  "release_year": 2018,
+  "runtime": "85",
+  "link_trailer": "https://www.youtube.com/embed/iSpglxHTJVM",
+  "image": "https://i.postimg.cc/zX1VkDNF/The-Game-Changers.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049f"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2e6"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db367"
+  },
+  "title": "The Green Mile",
+  "release_year": 1999,
+  "runtime": "188",
+  "link_trailer": "https://www.youtube.com/embed/Ki4haFrqSrw",
+  "image": "https://i.postimg.cc/FK29sGsV/The-Green-Mile.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2d5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db368"
+  },
+  "title": "The Kill Team",
+  "release_year": 2019,
+  "runtime": "87",
+  "link_trailer": "https://www.youtube.com/embed/VEALY2ZQ9Hg",
+  "image": "https://i.postimg.cc/gcgvS6MH/The-Kill-Team.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a604a0"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db317"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db369"
+  },
+  "title": "The Loud House Movie",
+  "release_year": 2021,
+  "runtime": "87",
+  "link_trailer": "https://www.youtube.com/embed/N52WkGK7EI8",
+  "image": "https://i.postimg.cc/sX6vc5VB/The-Loud-House-Movie.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049b"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db307"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db36a"
+  },
+  "title": "The Man from Toronto",
+  "release_year": 2022,
+  "runtime": "112",
+  "link_trailer": "https://www.youtube.com/embed/urqy8DrcGBs",
+  "image": "https://i.postimg.cc/VLGPk4K0/The-Man-from-Toronto.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2c6"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db36b"
+  },
+  "title": "The Mitchells vs. The Machines",
+  "release_year": 2021,
+  "runtime": "114",
+  "link_trailer": "https://www.youtube.com/embed/_ak5dFt8Ar0",
+  "image": "https://i.postimg.cc/J0pvt45C/The-Mitchells-vs-The-Machines.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2bf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db36c"
+  },
+  "title": "The Pirates: The Last Royal Treasure",
+  "release_year": 2022,
+  "runtime": "127",
+  "link_trailer": "https://www.youtube.com/embed/eSG7Tjx6X9k&t=5s",
+  "image": "https://i.postimg.cc/sx3CvLF7/The-Pirates-The-Last-Royal-Treasure.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2ca"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db36d"
+  },
+  "title": "The Roommate",
+  "release_year": 2011,
+  "runtime": "91",
+  "link_trailer": "https://www.youtube.com/embed/7NX30f8b1Oo",
+  "image": "https://i.postimg.cc/5tJYNx7t/The-Roommate.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db30a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db36e"
+  },
+  "title": "The Secret Life of Pets",
+  "release_year": 2016,
+  "runtime": "86",
+  "link_trailer": "https://www.youtube.com/embed/i-80SGWfEjM",
+  "image": "https://i.postimg.cc/D0hn1ZGW/The-Secret-Life-of-Pets.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2d4"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db36f"
+  },
+  "title": "The Short Game",
+  "release_year": 2013,
+  "runtime": "100",
+  "link_trailer": "https://www.youtube.com/embed/sRpG00kNdF4",
+  "image": "https://i.postimg.cc/bvvG26PX/The-Short-Game.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 2,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049f"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2eb"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db370"
+  },
+  "title": "The Sound of Magic",
+  "release_year": 2022,
+  "runtime": "62-77",
+  "link_trailer": "https://www.youtube.com/embed/8N5KSMy62ps",
+  "image": "https://i.postimg.cc/9fB4DvKY/The-Sound-of-Magic.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049b"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db309"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db371"
+  },
+  "title": "The SpongeBob Movie: Sponge on the Run",
+  "release_year": 2020,
+  "runtime": "95",
+  "link_trailer": "https://www.youtube.com/embed/a2cowVH03Xo&t=2s",
+  "image": "https://i.postimg.cc/P5p9rHL0/The-Sponge-Bob-Movie-Sponge-on-the-Run.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2bc"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db372"
+  },
+  "title": "The Spy Gone North",
+  "release_year": 2018,
+  "runtime": "137",
+  "link_trailer": "https://www.youtube.com/embed/P0GFDtviW_E",
+  "image": "https://i.postimg.cc/0yjxYhzC/The-Spy-Gone-North.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 2,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049c"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2cf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db373"
+  },
+  "title": "The Thieves",
+  "release_year": 2012,
+  "runtime": "135",
+  "link_trailer": "https://www.youtube.com/embed/28qTsiPhYCI",
+  "image": "https://i.postimg.cc/JnZRyJsV/The-Thieves.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2d6"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db374"
+  },
+  "title": "The Tinder Swindler",
+  "release_year": 2022,
+  "runtime": "114",
+  "link_trailer": "https://www.youtube.com/embed/_R3LWM_Vt70",
+  "image": "https://i.postimg.cc/MKxpQs0s/The-Tinder-Swindler.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2db"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db375"
+  },
+  "title": "The Tourist",
+  "release_year": 2010,
+  "runtime": "103",
+  "link_trailer": "https://www.youtube.com/embed/5XtbLezJtMg",
+  "image": "https://i.postimg.cc/4429bRd8/The-Tourist.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049d"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db30e"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db376"
+  },
+  "title": "The Yin Yang Master",
+  "release_year": 2021,
+  "runtime": "113",
+  "link_trailer": "https://www.youtube.com/embed/U_8N2jymaQ4",
+  "image": "https://i.postimg.cc/B6k132Rr/The-Yin-Yang-Master.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60497"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2f2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db377"
+  },
+  "title": "Tokyo Ghoul S",
+  "release_year": 2019,
+  "runtime": "101",
+  "link_trailer": "https://www.youtube.com/embed/ISitq6oJhYg",
+  "image": "https://i.postimg.cc/KvXgsrPL/Tokyo-Ghoul-S.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60497"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60499"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2ef"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db378"
+  },
+  "title": "Tony Parker: The Final Shot",
+  "release_year": 2020,
+  "runtime": "98",
+  "link_trailer": "https://www.youtube.com/embed/pEBEM8Vszxs",
+  "image": "https://i.postimg.cc/Y9Ghdhjb/Tony-Parker-The-Final-Shot.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049f"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2e9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db379"
+  },
+  "title": "Tony Robbins: I Am Not Your Guru",
+  "release_year": 2016,
+  "runtime": "116",
+  "link_trailer": "https://www.youtube.com/embed/HUHMZf3qwsQ",
+  "image": "https://i.postimg.cc/Ls7sg2vf/Tony-Robbins-I-Am-Not-Your-Guru.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2e0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db37a"
+  },
+  "title": "Train to Busan",
+  "release_year": 2016,
+  "runtime": "117",
+  "link_trailer": "https://www.youtube.com/embed/pyWuHv2-Abk",
+  "image": "https://i.postimg.cc/fLrRXZKm/Train-to-Busan.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60499"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2fd"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db37b"
+  },
+  "title": "Trolls World Tour",
+  "release_year": 2020,
+  "runtime": "90",
+  "link_trailer": "https://www.youtube.com/embed/yP86-TR6IME&t=2s",
+  "image": "https://i.postimg.cc/BvJbfmbL/Trolls-World-Tour.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a6049b"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db300"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db37c"
+  },
+  "title": "Trust No One: The Hunt for the Crypto King",
+  "release_year": 2022,
+  "runtime": "90",
+  "link_trailer": "https://www.youtube.com/embed/vW2BPQ15OSw",
+  "image": "https://i.postimg.cc/MKyjkM5L/Trust-No-One-The-Hunt-for-the-Crypto-King.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2ee"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db37d"
+  },
+  "title": "Untold: Malice at the Palace",
+  "release_year": 2021,
+  "runtime": "69",
+  "link_trailer": "https://www.youtube.com/embed/EP7xRieiZm0",
+  "image": "https://i.postimg.cc/d0ShR8Qh/Untold-Malice-at-the-Palace.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049f"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2ea"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db37e"
+  },
+  "title": "Valerian and the City of a Thousand Planets",
+  "release_year": 2017,
+  "runtime": "136",
+  "link_trailer": "https://www.youtube.com/embed/cPeqNTqZNN0",
+  "image": "https://i.postimg.cc/pdVjJWD6/Valerian-and-the-City-of-a-Thousand-Planets.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60497"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049e"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2f5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db37f"
+  },
+  "title": "Venom: Let There Be Carnage",
+  "release_year": 2021,
+  "runtime": "97",
+  "link_trailer": "https://www.youtube.com/embed/-ezfi6FQ8Ds",
+  "image": "https://i.postimg.cc/fWvh6MXK/Venom-Let-There-Be-Carnage.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049e"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2c9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db380"
+  },
+  "title": "Vivo",
+  "release_year": 2021,
+  "runtime": "99",
+  "link_trailer": "https://www.youtube.com/embed/BOe8L69JpVI&t=2s",
+  "image": "https://i.postimg.cc/bY5ZS0CW/Vivo.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049b"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db304"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db381"
+  },
+  "title": "Warcraft",
+  "release_year": 2016,
+  "runtime": "123",
+  "link_trailer": "https://www.youtube.com/embed/2Rxoz13Bthc",
+  "image": "https://i.postimg.cc/xdszsw5T/Warcraft.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60497"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049e"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2f4"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db382"
+  },
+  "title": "Wild Card",
+  "release_year": 2015,
+  "runtime": "91",
+  "link_trailer": "https://www.youtube.com/embed/7fJGbTfFPkM",
+  "image": "https://i.postimg.cc/DwpvRn9D/Wild-Card.webp",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60491"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60496"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2d8"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db383"
+  },
+  "title": "Winter on Fire: Ukraine's Fight for Freedom",
+  "release_year": 2015,
+  "runtime": "98",
+  "link_trailer": "https://www.youtube.com/embed/RibAQHeDia8",
+  "image": "https://i.postimg.cc/jdQC3Vd0/Winter-on-Fire-Ukraine-s-Fight-for-Freedom.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60495"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2e4"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db384"
+  },
+  "title": "Wish Dragon",
+  "release_year": 2021,
+  "runtime": "102",
+  "link_trailer": "https://www.youtube.com/embed/uWIRyU5fuzU&t=1s",
+  "image": "https://i.postimg.cc/B6GdVznk/Wish-Dragon.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60492"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60493"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a6049a"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2c2"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62bf2a0c9fb16831847db385"
+  },
+  "title": "Yaksha: Ruthless Operations",
+  "release_year": 2022,
+  "runtime": "125",
+  "link_trailer": "https://www.youtube.com/embed/8QBBPqwFHHM",
+  "image": "https://i.postimg.cc/rptkbWC0/Yaksha-Ruthless-Operations.jpg",
+  "storyline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus lectus diam integer pulvinar tincidunt lectus ac mauris. Sagittis in sit ultrices malesuada quisque orci, quis rhoncus.",
+  "persons": [
+    {
+      "$oid": "62bf0bbda8c8104d647612e6"
+    },
+    {
+      "$oid": "62bf0bc5a8c8104d647612ef"
+    },
+    {
+      "$oid": "62bf0bcca8c8104d647612f8"
+    },
+    {
+      "$oid": "62bf0bd7a8c8104d64761301"
+    },
+    {
+      "$oid": "62bf0bdea8c8104d6476130a"
+    },
+    {
+      "$oid": "62bf0be7a8c8104d64761313"
+    },
+    {
+      "$oid": "62bf0befa8c8104d6476131c"
+    },
+    {
+      "$oid": "62bf0bf5a8c8104d64761325"
+    },
+    {
+      "$oid": "62bf0bfea8c8104d6476132e"
+    }
+  ],
+  "views": 1,
+  "genres": [
+    {
+      "$oid": "62bd9f9f908973b5c5a60490"
+    },
+    {
+      "$oid": "62bd9f9f908973b5c5a60494"
+    }
+  ],
+  "watch_options": [
+    {
+      "$oid": "62bf124e9fb16831847db2cd"
+    }
+  ]
+}]

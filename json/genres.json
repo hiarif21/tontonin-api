@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a60490"
+  },
+  "name": "Action"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a60491"
+  },
+  "name": "Adventure"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a60492"
+  },
+  "name": "Animation"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a60493"
+  },
+  "name": "Comedy"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a60494"
+  },
+  "name": "Crime"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a60495"
+  },
+  "name": "Documentary"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a60496"
+  },
+  "name": "Drama"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a60497"
+  },
+  "name": "Fantasy"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a60499"
+  },
+  "name": "Horror"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a6049a"
+  },
+  "name": "Kids & Family"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a6049b"
+  },
+  "name": "Musical"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a6049c"
+  },
+  "name": "Thriller"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a6049d"
+  },
+  "name": "Romance"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a6049e"
+  },
+  "name": "Sci-Fi"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a6049f"
+  },
+  "name": "Sport"
+},{
+  "_id": {
+    "$oid": "62bd9f9f908973b5c5a604a0"
+  },
+  "name": "War & Military"
+}]

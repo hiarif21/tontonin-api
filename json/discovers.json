@@ -1,0 +1,283 @@
+[{
+  "_id": {
+    "$oid": "62bfed95a8c8104d6476396b"
+  },
+  "title": "Only on Netflix",
+  "movies": [
+    {
+      "$oid": "62bf2a0c9fb16831847db346"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db34a"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db384"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db385"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db376"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db36c"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db36b"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db36a"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db363"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db365"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db35a"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db353"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db356"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db358"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db352"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db345"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db328"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db329"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db32a"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db335"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db339"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656745365615"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1656745365615"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bfee95a8c8104d64763a73"
+  },
+  "title": "Best Action Movies",
+  "movies": [
+    {
+      "$oid": "62bf2a0c9fb16831847db337"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db353"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db35e"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db348"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db36a"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db37f"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db36c"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db373"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db32c"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db336"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db377"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db335"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656745621332"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1656745621332"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bfef4ca8c8104d64763b3b"
+  },
+  "title": "Korean Movies",
+  "movies": [
+    {
+      "$oid": "62bf2a0c9fb16831847db325"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db32f"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db337"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db34a"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db35d"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db36c"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db370"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db372"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db385"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db37a"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db35a"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656745804971"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1656745804971"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bff082a8c8104d64763c20"
+  },
+  "title": "This Will Make You Laugh",
+  "movies": [
+    {
+      "$oid": "62bf2a0c9fb16831847db33d"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db329"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db338"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db347"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db344"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db345"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db32e"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db363"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db362"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db328"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656746114252"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1656746630938"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bff225a8c8104d64763cf5"
+  },
+  "title": "👻Oooooo...",
+  "movies": [
+    {
+      "$oid": "62bf2a0c9fb16831847db343"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db355"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db354"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db363"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db362"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db37a"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db33e"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db332"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db377"
+    },
+    {
+      "$oid": "62bf2a0c9fb16831847db325"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656746533604"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1656746533604"
+    }
+  },
+  "__v": 0
+}]

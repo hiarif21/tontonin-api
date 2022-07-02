@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62bc4a1fcf232d4689b08a1b"
+  },
+  "name": "Netflix",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bda32d78766a23be870573"
+  },
+  "name": "Disney Plus",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bdb9fdf93c36336605133d"
+  },
+  "name": "Hulu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62bdba02f93c363366051340"
+  },
+  "name": "Vidio",
+  "__v": 0
+}]

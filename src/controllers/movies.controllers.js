@@ -117,12 +117,7 @@ export const getMultiple = async (req, res, next) => {
     }
 
     const result = await model
-      .find(
-        filter,
-        'title image release_year runtime storyline link_trailer watch_options persons genres'
-      )
-      .populate('watch_options', 'title link_streaming')
-      .populate('persons genres', 'name')
+      .find(filter, 'title image')
       .skip(limit * (page - 1))
       .limit(limit);
 

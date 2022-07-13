@@ -17,10 +17,20 @@ dotenv.config();
 
 const app = express();
 
-const allowDomain = process.env.ALLOW_DOMAIN;
+const allowDomain = process.env.ALLOW_DOMAINS.split(' ');
+
+let corsOptions = {
+  origin: function (origin, callback) {
+    if (allowDomain.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
+};
 
 // MIDDLEWARE
-app.use(cors({ origin: allowDomain }));
+app.use(cors(corsOptions));
 app.use(morgan('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));

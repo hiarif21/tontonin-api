@@ -1,7 +1,8 @@
 # Tontonin-API
 
-add to .env
+add to environment
 
 ```bash
 DATABASE_URL = "YOUR DATABASE URL"
+ALLOW_DOMAIN = "ALLOW DOMAIN"
 ```

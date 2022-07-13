@@ -45,8 +45,6 @@ export const getSingle = async (req, res, next) => {
 
 export const getMultiple = async (req, res, next) => {
   try {
-    const name = req.query.name;
-
     const result = await model.find({}, 'name');
 
     if (result) {

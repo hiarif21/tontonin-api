@@ -2,6 +2,7 @@ import express from 'express';
 import morgan from 'morgan';
 import cors from 'cors';
 import bodyParser from 'body-parser';
+import dotenv from 'dotenv';
 
 import dashboardRoutes from './routes/dashboard.routes.js';
 import rolesRoutes from './routes/roles.routes.js';
@@ -12,10 +13,14 @@ import watchOptionsRoutes from './routes/watchOptions.routes.js';
 import moviesRoutes from './routes/movies.routes.js';
 import discoversRoutes from './routes/discovers.routes.js';
 
+dotenv.config();
+
 const app = express();
 
+const allowDomain = process.env.ALLOW_DOMAIN;
+
 // MIDDLEWARE
-app.use(cors());
+app.use(cors({ origin: allowDomain }));
 app.use(morgan('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));

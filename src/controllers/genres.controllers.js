@@ -45,7 +45,7 @@ export const getSingle = async (req, res, next) => {
 
 export const getMultiple = async (req, res, next) => {
   try {
-    const result = await model.find({}, 'name');
+    const result = await model.find({}, 'name').sort({ name: 1 });
 
     if (result) {
       res.status(200).json({
